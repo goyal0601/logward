@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I have used react-final-form, antd, redux and moment libraries. 
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install` then
 
 ### `npm start`
 
